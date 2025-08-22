@@ -1,0 +1,57 @@
+.preparing {
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 0 0 8px 8px;
+    text-align: center;
+    padding: 0px;
+    font-size: 30px;
+    font-family: "M PLUS 1p", sans-serif;
+    color: #0a0a0a;
+    background: #f0f0f0;
+    border: 2px solid #aaaaaa;
+}
+
+.lesson {
+    width: 600px;
+    margin: 0 auto;
+    display: block;
+    text-align: left;
+    padding: 0px;
+    font-size: 35px;
+    font-family: "M PLUS 1p", sans-serif;
+    color: #0a0a0a;
+    background: #f0f0f0;
+    border: 2px solid #aaaaaa;
+    outline: none;
+}
+
+.lesson:hover { background: #a0a0a0; }
+
+.unit {
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 8px 8px 0 0;
+    padding: 0px;
+    font-size: 35px;
+    font-family: "M PLUS 1p", sans-serif;
+    color: #0a0a0a;
+    border: 2px solid #aaaaaa;
+}
+
+.color0 { background: #ffdfdf; }
+.color1 { background: #ffa0a0; }
+.color2 { background: #ffd260; }
+.color3 { background: #ffff6f; }
+.color4 { background: #84ff65; }
+.color5 { background: #63a3d2; }
+.color6 { background: #4489ff; }
+.color7 { background: #cc6dff; }
+
+.color0:hover { background: #e6bcbc; }
+.color1:hover { background: #e68a8a; }
+.color2:hover { background: #e6b84d; }
+.color3:hover { background: #e6e65c; }
+.color4:hover { background: #6fc44f; }
+.color5:hover { background: #4e82b3; }
+.color6:hover { background: #336fcc; }
+.color7:hover { background: #a85acc; }
