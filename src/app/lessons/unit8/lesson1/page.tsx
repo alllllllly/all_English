@@ -127,8 +127,8 @@ export default function Home() {
           </div>
           <div className={unit_stlyes.quest_small}>(3) My friends have already finished their homework.</div>
           <div className={unit_stlyes.choice}>① I found the homework very difficult.</div>
-          <div className={unit_stlyes.choice}>② I'm too tired to do my homework.</div>
-          <div className={unit_stlyes.choice}>③ To tell the truth, I didn't do my homework during July.</div>
+          <div className={unit_stlyes.choice}>{"② I'm too tired to do my homework."}</div>
+          <div className={unit_stlyes.choice}>{"③ To tell the truth, I didn't do my homework during July."}</div>
           <button
             className={unit_stlyes.ans}
             onClick={() => toggleOpened(2)}

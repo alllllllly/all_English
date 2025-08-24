@@ -10,56 +10,56 @@ const units = [
   {
     label: "Unit0 まずはここをおさえよう!",
     color: "color0",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
   {
     label: "Unit1 動詞",
     color: "color1",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
   {
     label: "Unit2 助動詞",
     color: "color2",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
   {
     label: "Unit3 疑問詞",
     color: "color3",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
   {
     label: "Unit4 名詞と冠詞・代名詞",
     color: "color4",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
   {
     label: "Unit5 形容詞と副詞",
     color: "color5",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
   {
     label: "Unit6 接続詞",
     color: "color6",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
   {
     label: "Unit7 前置詞",
     color: "color7",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
@@ -78,49 +78,49 @@ const units = [
   {
     label: "Unit9 不定詞と動名詞",
     color: "color2",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
   {
     label: "Unit10 比較",
     color: "color3",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
   {
     label: "Unit11 受動態",
     color: "color4",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
   {
     label: "Unit12 現在完了",
     color: "color5",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
   {
     label: "Unit13 分詞と関係代名詞",
     color: "color6",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
   {
     label: "Unit14 仮定法",
     color: "color1",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
   {
     label: "Unit15 発展学習",
     color: "color7",
-    content: (router: ReturnType<typeof useRouter>) => (
+    content: () => (
       <div className={sub_styles.preparing}>準備中...</div>
     ),
   },
