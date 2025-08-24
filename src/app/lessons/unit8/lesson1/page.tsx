@@ -1,7 +1,6 @@
 "use client";
 import Image from "next/image";
 import main_styles from "../../../page.module.css";
-import sub_stlyles from "../../page.module.css";
 import unit_stlyes from "../page.module.css";
 import { useRouter } from "next/navigation";
 import { useState } from "react";

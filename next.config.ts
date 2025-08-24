@@ -1,7 +1,6 @@
-import type { NextConfig } from "next";
+const path = require("path");
 
-const nextConfig: NextConfig = {
-  /* config options here */
+module.exports = {
+  // プロジェクトのルートを明示
+  outputFileTracingRoot: path.resolve(__dirname),
 };
-
-export default nextConfig;
