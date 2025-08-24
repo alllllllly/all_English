@@ -145,11 +145,11 @@ export default function Home() {
             <div className={unit_stlyes.image}>
             <Image src="/8-1/q3-1.png" alt="q3-1" width={650} height={100}></Image>
             </div>
-            ② I'm too tired to do my homework.
+            {"② I'm too tired to do my homework."}
             <div className={unit_stlyes.image}>
             <Image src="/8-1/q3-2.png" alt="q3-2" width={650} height={100}></Image>
             </div>
-            ③ To tell the truth, I didn't do my homework during July.
+            {"③ To tell the truth, I didn't do my homework during July."}
             <div className={unit_stlyes.image}>
             <Image src="/8-1/q3-3.png" alt="q3-3" width={650} height={100}></Image>
             </div>
