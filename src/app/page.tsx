@@ -36,10 +36,12 @@ export default function Home() {
             Welcome to ALL ENGLISH!
           </div>
           <div className={styles.info}>
-            ※この教材はZ会発行の『中学英文法Fine 改訂版』を参考に作成しています。
+            ※この教材はZ会発行の『中学英文法Fine 改訂版』を<br />
+            参考に作成しています。
           </div>
           <div className={styles.info}>
-            ※現在、Unit8のLesson1のみが利用可能となっております。<br />
+            ※現在、Unit8のLesson1のみが<br />
+            利用可能となっております。<br />
             他のLessonは利用できませんのでご注意ください。
           </div>
         </div>

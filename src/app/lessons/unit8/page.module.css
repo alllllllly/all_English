@@ -1,0 +1,100 @@
+.title {
+  margin: 35px auto 0 auto;
+  padding: 0px;
+  text-align: center;
+  font-size: 50px;
+  font-family: "M PLUS 1p", sans-serif;
+  color: #0a0a0a;
+  background: #ffa0a0;
+}
+
+.chapter {
+  margin: 35px auto 10px auto;
+  text-align: left;
+  font-size: 35px;
+  font-family: "M PLUS 1p", sans-serif;
+  color: #0a0a0a;
+}
+
+.quest_big {
+  margin: 15px auto 10px 10px;
+  text-align: left;
+  font-size: 30px;
+  font-family: "M PLUS 1p", sans-serif;
+  color: #0a0a0a;
+}
+
+.quest_small {
+  margin: 20px auto 5px 20px;
+  text-align: left;
+  font-size: 25px;
+  font-family: "M PLUS 1p", sans-serif;
+  color: #0a0a0a;
+}
+
+.choice {
+  margin: 5px auto 0 25px;
+  text-align: left;
+  font-size: 25px;
+  font-family: "M PLUS 1p", sans-serif;
+  color: #0a0a0a;
+}
+
+.ans {
+  margin: 10px auto 0 30px;
+  border-radius: 4px;
+  text-align: left;
+  font-size: 25px;
+  font-family: "M PLUS 1p", sans-serif;
+  color: #0a0a0a;
+  border: 3px solid #0a0a0a;
+  background: none;
+  box-shadow: none;
+  outline: none;
+}
+
+.descr {
+  margin: 0 auto 0 32px;
+  text-align: left;
+  font-size: 25px;
+  font-family: "M PLUS 1p", sans-serif;
+  color: #0a0a0a;
+  background: none;
+}
+
+.hidden { display: none; }
+
+.finish {
+  margin: 35px auto 0 auto;
+  border-radius: 10px;
+  padding: 5px 0 5px 0;
+  text-align: center;
+  font-size: 40px;
+  font-family: "M PLUS 1p", sans-serif;
+  color: #0a0a0a;
+  background: #ffa0a0;
+  border: none;
+  box-shadow: none;
+  outline: none;
+  display: block;
+}
+
+.finish:hover { background: #e68a8a; }
+
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 5px auto;
+}
+
+.point {
+  margin: 10px auto;
+  width: 650px;
+  padding: 10px;
+  text-align: left;
+  font-size: 25px;
+  font-family: "M PLUS 1p", sans-serif;
+  color: #0a0a0a;
+  background: #ffff7f;
+}
